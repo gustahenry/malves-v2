@@ -1,0 +1,43 @@
+
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-brand{
+	color: #fff;
+}
+
+.jumbotron{
+	background-color: transparent;
+}
+
+.btn-custom{
+	color: #444;
+	background-color: #fff;
+}
+
+.gatilho{
+	color: #000;
+}
+
+.background-gradient {
+  background: linear-gradient(to bottom right, #c64652,#c64f4e,#c66047, #c65e48);
+
+}
+
+.header-malves{
+	padding: 3rem 0;
+}
+
+.servicos{
+	background-image: url('http://res.cloudinary.com/estudiomalves/image/upload/v1518726315/bg-corrida_qfaywo.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: ;
+    background-size: cover;
+}
+.portfolio .container .row .col-sm{
+	padding: 0;
+}
+.portfolio .container .row .col-sm img{
+	width: 280px;
+	margin:0;
+	padding: 0;
+}
